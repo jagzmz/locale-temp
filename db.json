@@ -1,0 +1,9 @@
+{
+  "app":{
+    "offlinePage":{
+      "title":{
+        "en-US":"Downloads",
+        "fr-FR":"Téléchargements"
+      }
+    }
+}
